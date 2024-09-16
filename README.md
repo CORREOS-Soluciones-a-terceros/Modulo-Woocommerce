@@ -1,5 +1,5 @@
 # Plugin Correos Woocommerce
-***
+
 Añade el módulo Correos a tu tienda online Woocommerce y dispondrás de forma gratuita de una herramienta que facilitará enormemente la gestión de tus envíos.
 
 Si tienes un contrato con Correos, con Correos Express, o ambas compañías simultáneamente, este módulo te permitirá gestionar cómodamente y de forma rápida los envíos de paquetería desde tu tienda.
@@ -19,7 +19,6 @@ Los siguientes productos son compatibles:
 - Paq Estándar Internacional
 - Paq Light Internacional
 
-***
 ## Productos de Correos Express:
 - Paq 10
 - Paq 14
